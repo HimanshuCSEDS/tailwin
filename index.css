@@ -1,0 +1,16 @@
+#h1 {
+  font-style: cursive;
+  color: aliceblue;
+  margin-bottom: 22px;
+}
+html{
+  background-color: rgb(17, 12, 41);
+  backdrop-filter: blur(1px) ;
+}
+.add {
+  color: aliceblue;
+}
+#money {
+  margin-bottom: 11px;
+}
+ 
